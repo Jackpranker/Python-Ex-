@@ -1,0 +1,19 @@
+ 
+ USER1
+[{'First_Name': 'ousman', 'Last_Name': 'jack', 'Address': 'ebo town', ' Date_of_Birth': '12-12-1996', 'Gender': 'male'}, {'First_Name': 'mam jarra', 'Last_Name': 'jack', 'Address': 'coastal road', ' Date_of_Birth': '2-3-1994', 'Gender': 'female'}] 
+ USER2
+[{'First_Name': 'ousman', 'Last_Name': 'jack', 'Address': 'ebo town', ' Date_of_Birth': '12-12-1996', 'Gender': 'male'}, {'First_Name': 'mam jarra', 'Last_Name': 'jack', 'Address': 'coastal road', ' Date_of_Birth': '2-3-1994', 'Gender': 'female'}] 
+ STUDENT1
+[{'First_Name': 'o', 'Last_Name': 'l', 'Address': 'o', ' Date_of_Birth': '00', 'Gender': 'k'}] 
+ STUDENT1
+[{'First_Name': 'w', 'Last_Name': 'w', 'Address': 'w', ' Date_of_Birth': 'w', 'Gender': 'w'}] 
+ STUDENT1
+[{'First_Name': 'w', 'Last_Name': 'w', 'Address': 'w', ' Date_of_Birth': 'w', 'Gender': 'w'}] 
+ STUDENT1
+[{'First_Name': 'w', 'Last_Name': 'w', 'Address': 'w', ' Date_of_Birth': 'w', 'Gender': 'w'}] 
+ STUDENT1
+[{'First_Name': 'e', 'Last_Name': 'e', 'Address': '', ' Date_of_Birth': 'e', 'Gender': 'e'}] 
+ STUDENT1
+[{'First_Name': 'w', 'Last_Name': 'w', 'Address': 'w', ' Date_of_Birth': 'w', 'Gender': ''}] 
+ STUDENT1
+[{'First_Name': '', 'Last_Name': '', 'Address': '', ' Date_of_Birth': '', 'Gender': ''}]

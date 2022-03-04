@@ -1,0 +1,10 @@
+username = input("What is your Name:  ")
+print("Welcome to python Programming " + username)
+
+operator = input( "Hello " + username +" What do you want to do ? enter + - * % ")
+print(operator)
+num1= input("Please enter the first number ")
+print(num1)
+num2= input("Please enter the second number ")
+print(num2)
+print ("Dear " + username + " your final Result is: " , eval(num1 + operator  +num2))

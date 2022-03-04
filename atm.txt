@@ -1,0 +1,4 @@
+
+{'Username': 'swancee123', 'Pincode': 7070, 'initial deposit': 'D400'}
+{'Username': 'ous123', 'Pincode': 9040, 'initial deposit': 'D200'}
+{'Username': 'jackous123', 'Pincode': 4343, 'initial deposit': 'D400'}
